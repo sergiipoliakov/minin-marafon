@@ -1,19 +1,14 @@
 export default [
-	{
-		imgUrl:
-			"https://images.unsplash.com/photo-1420745981456-b95fe23f5753?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
-		title: "Kyoto Japan",
-	},
-	{
-		imgUrl:
-			"https://images.unsplash.com/photo-1475319122043-5ca9eeceefaf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
-		title: "Iceland",
-	},
-	{
-		imgUrl:
-			"https://images.unsplash.com/photo-1445497680841-3fb9096cb55a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80",
-		title: "Rocky Bay Resorts, Park Rynie, South Africa",
-	},
+	// {
+	// 	imgUrl:
+	// 		"https://images.unsplash.com/photo-1475319122043-5ca9eeceefaf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+	// 	title: "Iceland",
+	// },
+	// {
+	// 	imgUrl:
+	// 		"https://images.unsplash.com/photo-1445497680841-3fb9096cb55a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1471&q=80",
+	// 	title: "Rocky Bay Resorts, Park Rynie, South Africa",
+	// },
 	{
 		imgUrl:
 			"https://images.unsplash.com/photo-1611616910032-b63f95736a93?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
